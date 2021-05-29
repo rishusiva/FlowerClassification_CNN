@@ -10,7 +10,15 @@ Convolutional Neural Networks Model is created to classify the flowers dataset i
 * Sunflower
 
 ## Model
+<p align="left">
+<img width=50% src="Images/model.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+</p>
 
+## Performance
+<p align="left">
+<img width=40% src="Images/performance_loss.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=40% src="Images/performance_accuracy.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+</p>
 
 ## Prerequisites
 * Python 3 
