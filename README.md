@@ -9,6 +9,9 @@ Convolutional Neural Networks Model is created to classify the flowers dataset i
 * Rose
 * Sunflower
 
+## Dataset
+Data scraping was done and images were downloaded using `Fatkun Batch Downloader` extension and grouped into respective folders. 
+
 ## Model
 <p align="left">
 <img width=50% src="Images/model.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
