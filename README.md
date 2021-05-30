@@ -38,6 +38,9 @@ Data scraping was done and images were downloaded using `Fatkun Batch Downloader
 
 All the external dependencies can be installed by using ```pip install -r requirements.txt```
 
+## Demo
+Please refer to the colab notebook <a href = "https://colab.research.google.com/drive/1XNw5O7kvITgvOQiH8RebXGZQnmVOq6-J#scrollTo=vYymuPGbPoX2">here</a> 
+
 ## Author
 * Rishikesh Sivakumar
 
